@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm a full-stack developer. In my free time, I work on random projects. This profile mainly showcases side projects categorized under organizations.
+
+### Currently working with:
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,svelte,solidjs,astro,htmx,tailwind,php,go,rust,java,nodejs,bun,nestjs,laravel,tauri,vite,gradle,nginx,docker,linux,mysql,sqlite,mongodb,redis,idea,vscode)](https://skillicons.dev)
+
 <!--
 **holmityd/holmityd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
